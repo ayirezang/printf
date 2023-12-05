@@ -5,7 +5,6 @@
 
 
 int _printf(const char *format, ...);
-size_t strlen(const char* str);
 
 
 
