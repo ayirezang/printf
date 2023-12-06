@@ -9,6 +9,7 @@
 
 
 int _printf(const char *format,	...)
+														
 {
 
 	int charchar = 0;
