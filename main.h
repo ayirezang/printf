@@ -1,9 +1,11 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef MAIN.H
+#define MAIN.H
+
 
 #include <stdarg.h>
 #include <string.h>
 #include <stdio.h>
+
 
 int _printf(const char *format, ...);
 
